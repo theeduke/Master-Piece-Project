@@ -9,7 +9,7 @@
   align-items: top;
   justify-content: center;
   /* min-height: 100vh; */
-  background: linear-gradient(#191769, #3d3bb1);
+  background: linear-gradient(blue, skyblue);
   }
 
   header{
